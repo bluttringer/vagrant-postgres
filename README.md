@@ -2,6 +2,8 @@
 
 A Vagrant configuration that starts up a PostgreSQL database in a virtual machine for local application development.
 
+This fork is based on an Ubuntu precise 64 and a 9.1 PostgreSQL.
+
 ### Installation
 
 First install [Vagrant] and [Virtual Box].
